@@ -1,0 +1,15 @@
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.deps.json
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.pdb
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csproj.AssemblyReference.cache
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfoInputs.cache
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfo.cs
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\birha\source\repos\XamarinCalculator\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.pdb
