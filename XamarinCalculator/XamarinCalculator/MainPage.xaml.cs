@@ -10,6 +10,8 @@ namespace XamarinCalculator
 {
     public partial class MainPage : ContentPage
     {
+        string islem="";
+        double sayi1;
         public MainPage()
         {
             InitializeComponent();
@@ -17,11 +19,15 @@ namespace XamarinCalculator
 
         void temizle(Object sender,EventArgs e)
         {
-
+            LblSonuc.Text = "";
+            islem = "";
         }        
         void islemsec(Object sender,EventArgs e)
         {
-
+            Button bt = (Button)sender;
+            islem = bt.Text;
+            sayi1 = Convert.ToDouble(LblSonuc.Text);
+            LblSonuc.Text = "";
         }
 
         void yuzde(Object sender, EventArgs e)
@@ -36,7 +42,8 @@ namespace XamarinCalculator
 
         void sayi(Object sender, EventArgs e)
         {
-
+            Button bt = (Button)sender;
+            LblSonuc.Text = LblSonuc.Text + bt.Text;
         }
 
         void hesapla(Object sender, EventArgs e)

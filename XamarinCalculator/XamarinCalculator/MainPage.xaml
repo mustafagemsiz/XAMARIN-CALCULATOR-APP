@@ -9,7 +9,10 @@
             <Setter Property="Margin" Value="5"></Setter>
         </Style>
 
-        <Style x:Key="bg" TargetType="Label">
+        <Style x:Key="resultStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="50"></Setter>
+            <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+            <Setter Property="VerticalTextAlignment" Value="Center"></Setter>
             <Setter Property="BackgroundColor" Value="Gray"></Setter>
             <Setter Property="TextColor" Value="White"></Setter>
         </Style>
@@ -31,7 +34,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <Label x:Name="LblSonuc" Style="{StaticResource bg}" Grid.ColumnSpan="4" ></Label>
+            <Label x:Name="LblSonuc" Style="{StaticResource resultStyle}" Grid.ColumnSpan="4" Text="" ></Label>
         <Button Text="C" Grid.Row="1" Grid.Column="0" Style="{StaticResource butonStyle}" Clicked="temizle"></Button>
         <Button Text="√" Grid.Row="1" Grid.Column="1" Style="{StaticResource butonStyle}" Clicked="karekok"></Button>
         <Button Text="%" Grid.Row="1" Grid.Column="2" Style="{StaticResource butonStyle}" Clicked="islemsec"></Button>
